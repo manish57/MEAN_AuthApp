@@ -16,7 +16,5 @@
     "body-parser": "*",
     "passport": "*",
     "passport-jwt": "*"
-  },
-  "author": "MANISH",
-  "license": "ISC"
+  }
 }
